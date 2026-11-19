@@ -17,7 +17,7 @@ const ITEMS = {
     { id: "lion", word: "lion", plural: "lions", emoji: "🦁", place: "savanna", food: "lots-meat", problem: "hunting" }
   ],
   places: [
-    { id: "forest", word: "in the forest", emoji: "🌲" },
+    { id: "forest", word: "in forests", emoji: "🌲" },
     { id: "sea", word: "in the sea", emoji: "🌊" },
     { id: "ice", word: "on the ice", emoji: "🧊" },
     { id: "savanna", word: "in the savanna", emoji: "🌾" },
